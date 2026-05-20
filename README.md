@@ -2,7 +2,7 @@
 
 A sleek Hebrew recipe manager built with Angular 21. Browse your cookbook, find recipes by available ingredients, and follow step-by-step cooking mode — all in a clean glassmorphism UI with light & dark themes.
 
-**[→ Live Demo](https://your-username.github.io/cookinator-web/)**
+**[→ Live Demo](https://uultimaa.github.io/cookinator-web/)**
 
 ---
 
